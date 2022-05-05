@@ -1,0 +1,22 @@
+<root>
+    <project name="NGSW-FC">
+        <parameterManager>
+            <parameter name="UHMA Antenna" abbreviation="uhma">
+                <option name="Taiyo Yuden" abbreviation="ty"/>
+                <option name="Taoglas" abbreviation="tg"/>
+                <option name="Johanson" abbreviation="jo"/>
+            </parameter>
+            <parameter name="FC Antenna" abbreviation="fc">
+                <option name="Taiyo Yuden" abbreviation="ty"/>
+                <option name="Taoglas" abbreviation="tg"/>
+                <option name="Johanson" abbreviation="jo"/>
+            </parameter>
+            <parameter name="Position" abbreviation="pos">
+                <option name="Position 1" abbreviation="pos1"/>
+                <option name="Position 2" abbreviation="pos2"/>
+                <option name="Position 3" abbreviation="pos3"/>
+                <option name="Position 4" abbreviation="pos4"/>
+            </parameter>
+        </parameterManager>
+    </project>
+</root>
